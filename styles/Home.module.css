@@ -1,17 +1,19 @@
 .title {
-  margin: 1.8rem 0 1.5rem;
+  margin: 2rem 0 2.2rem;
   line-height: 1.15;
-  font-size: 4.2rem;
+  letter-spacing: 0.36rem;
+  font-size: 4rem;
+  font-weight: 700;
   text-align: center;
 }
 
 .userCard {
-  margin: 0.67rem;
-  transition: all 0.1s ease-in-out;
+  margin: 0.69rem;
+  transition: all 0.15s ease-in-out;
 }
 
 .userCard:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
 }
 
 .editInputFields {
