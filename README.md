@@ -1,4 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# :bust_in_silhouette: User List Application
+**Live Demo:**
+https://sanjaykarki-userlist.vercel.app/
+<p align="center" width="100%">
+<img src="https://user-images.githubusercontent.com/106867464/207533866-bd972115-e57d-4e99-8a92-c57439e8a89a.png" width="96%">
+</p>
+
+## :page_with_curl:	Description
+**_Simple application that fetches data from an [API](https://jsonplaceholder.typicode.com/users) and displays a list of users & their info._**
+
+_Features:_
+- Option to add to favorite or remove from favorite
+- Option to edit user data (popup editor)
+- Option to delete user data
+
+_To be added:_
+- Option to add new user
+- Filter by user info
+
+### :hammer_and_wrench:	Built with
+
+- HTML 5
+- CSS 3
+- JavaScript
+- [Next](https://nextjs.org/) - React Framework
+- [Ant Design](https://ant.design/) - React UI Library
+- [React](https://reactjs.org/) - JS Library  
+  
+## :page_with_curl:	Setup Notes  
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
+
+_Install Ant Design and Ant Design Icons:_
+```bash
+npm i antd
+# and for icons
+npm i @ant-design/icons
+```  
 
 ## Getting Started
 
