@@ -1,0 +1,43 @@
+.title {
+  margin: 1.8rem 0 1.5rem;
+  line-height: 1.15;
+  font-size: 4.2rem;
+  text-align: center;
+}
+
+.userCard {
+  margin: 0.67rem;
+  transition: all 0.1s ease-in-out;
+}
+
+.userCard:hover {
+  transform: scale(1.05);
+}
+
+.editInputFields {
+  margin: 1rem 0;
+}
+
+.footer {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 1.8rem 1.5rem 1.5rem;
+}
+
+.errorIcon {
+  font-size: 14rem;
+  text-align: center;
+  margin: 5rem 0 3.5rem;
+}
+
+.errorText {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 2.4rem;
+  }
+}
